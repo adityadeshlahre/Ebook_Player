@@ -1,6 +1,6 @@
-# audio_ebook_player
+# ebook_player
 
-A new Flutter project.
+An application which provides user to red books without downloading them.
 
 ## Getting Started
 

@@ -1,11 +1,10 @@
-# ebook_player
+# Ebook_Player
 
 An application which provides user to red books without downloading them.
 
 ## ScreenShots
 
-![Screenshot_1683705250](https://github.com/adityadeshlahre/Ebook_Player/assets/132184385/aee479ce-e051-4e35-9a08-1567bb884c05)
-![Screenshot_1683728175](https://github.com/adityadeshlahre/Ebook_Player/assets/132184385/5063ae4e-500a-4ea6-bab8-47f1f50ee80a)
+![MergedImages](https://github.com/adityadeshlahre/Ebook_Player/assets/132184385/500d873a-43e8-46d8-a5a3-296576fcdac4)
 
 ## Getting Started
 

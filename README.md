@@ -2,6 +2,11 @@
 
 An application which provides user to red books without downloading them.
 
+## ScreenShots
+
+![Screenshot_1683705250](https://github.com/adityadeshlahre/Ebook_Player/assets/132184385/aee479ce-e051-4e35-9a08-1567bb884c05)
+![Screenshot_1683728175](https://github.com/adityadeshlahre/Ebook_Player/assets/132184385/5063ae4e-500a-4ea6-bab8-47f1f50ee80a)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

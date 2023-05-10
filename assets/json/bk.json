@@ -1,0 +1,44 @@
+[
+  {
+    "rating": "4.5",
+    "title": "To Kill a Mockingbird",
+    "text": "Racial Injusthy",
+    "img": "assets/img/bk1.png",
+    "audio": "to_kill_a_mockingbird.mp3"
+  },
+  {
+    "rating": "3.8",
+    "title": "The Catcher in the Rye",
+    "text": "Teenage Alienation",
+    "img": "assets/img/bk2.png",
+    "audio": "catcher_in_the_rye.mp3"
+  },
+  {
+    "rating": "4.2",
+    "title": "1984",
+    "text": "Dystopian Rebove",
+    "img": "assets/img/bk3.png",
+    "audio": "1984.mp3"
+  },
+  {
+    "rating": "4.0",
+    "title": "Pride and Prejudice",
+    "text": "Social Expectatmance",
+    "img": "assets/img/bk1.png",
+    "audio": "pride_and_prejudice.mp3"
+  },
+  {
+    "rating": "4.1",
+    "title": "The Great Gatsby",
+    "text": "Wealth, Love, Dream",
+    "img": "assets/img/bk2.png",
+    "audio": "the_great_gatsby.mp3"
+  },
+  {
+    "rating": "4.3",
+    "title": "The Hunger Games",
+    "text": "Survival, Rebellion",
+    "img": "assets/img/bk3.png",
+    "audio": "the_hunger_games.mp3"
+  }
+]
